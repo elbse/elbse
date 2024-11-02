@@ -8,7 +8,7 @@ I'm a second-year Computer Science student on a journey to explore the vast worl
 👩‍💻**About Me**
 - 🎓**Student:** Currently diving deep into Computer Science studies, focusing on practical projects to build my skills and knowledge.
 - 👀**Interests:** I'm particularly fascinated by the potential of Web3 and blockchain to change how we think about the web, along with other transformative technologies.
-- 💞️**Collaborating:**Open to projects with **like-mided people** who are also passionate about tech and development! Whether it's a web app, blockchain project, or something entirely new, I'd love to connect.
+- 💞️**Collaborating:** Open to projects with **like-mided people** who are also passionate about tech and development! Whether it's a web app, blockchain project, or something entirely new, I'd love to connect.
 
 
 📫**How to Reacn Me**
