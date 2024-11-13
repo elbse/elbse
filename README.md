@@ -15,7 +15,7 @@ I'm a second-year Computer Science student on a journey to explore the vast worl
 
 # 📫 **How to Reach Me**
 
-- **Email:** changpriego@gmail.com - I'd love to chat about potential projects, internships, or just network with fellow tech enthusiasts!
+- **Email:** charissepriego0140@gmail.com - I'd love to chat about potential projects, internships, or just network with fellow tech enthusiasts!
 
 
 
