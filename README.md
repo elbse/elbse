@@ -16,7 +16,7 @@ I'm a **second-year Computer Science student** passionate about exploring the ev
 
 ## 📫 **Let's Connect!**
 - 📩 **Email:** [charissepriego0140@gmail.com](mailto:charissepriego0140@gmail.com)
-- 🐦 **Twitter:** [@PriegoChar63719]((https://x.com/PriegoChar63719)) *(if you have one!)*
+- 🐦 **Twitter:** [@PriegoChar63719](https://x.com/PriegoChar63719)
 - 🌐 **GitHub:** [@elbse](https://github.com/elbse)
 
 🚀 I'm always open to discussions, collaborations, and opportunities. Feel free to reach out—let's build something great together! 🔥
