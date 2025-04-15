@@ -10,7 +10,7 @@ I'm a **second-year Computer Science student** passionate about exploring the ev
 - 💞️ **Collaborating:** Excited to connect with **like-minded developers** to work on innovative projects, whether it's a **web app, blockchain solution, or experimental tech**.
 
 ## 🚀 **Current Focus**
-- 🌱 Learning and building with **React.js** & **Solidity**
+- 🌱 Learning and building with **React** & **Solidity**
 - 🔗 Engaging with **Web3 and blockchain communities**
 - 💡 Creating valuable content around **CORE DAO & BASE** to educate and grow the ecosystem
 
