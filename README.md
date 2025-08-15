@@ -9,11 +9,6 @@ I'm a **second-year Computer Science student** passionate about exploring the ev
 - 👀 **Interests:** Web development, blockchain, open-source projects, and emerging technologies.
 - 💞️ **Collaborating:** Excited to connect with **like-minded developers** to work on innovative projects, whether it's a **web app, blockchain solution, or experimental tech**.
 
-## 🚀 **Current Focus**
-- 🌱 Learning and building with **JavaScript** & **Solidity**
-- 🔗 Engaging with **Web3 and blockchain communities**
-- 💡 Creating valuable content around **CORE DAO & BASE** to educate and grow the ecosystem
-
 ## 📫 **Let's Connect!**
 - 📩 **Email:** [charissepriego0140@gmail.com](mailto:charissepriego0140@gmail.com)
 - 🐦 **Twitter:** [@PriegoChar63719](https://x.com/PriegoChar63719)
