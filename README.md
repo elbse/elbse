@@ -1,6 +1,6 @@
 # 👋 Hi, **@elbse** here.
 
-👩‍💻 I'm a Computer Science student passionate about **web development** and **blockchain technology**. Currently learning **React** and **Solidity**, I enjoy building projects that explore **dApps** and emerging tech. Always excited to **collaborate** with like-minded developers on innovative ideas.
+👩‍💻 I'm a Computer Science student exploring web development, blockchain, and emerging tech. Currently learning React and Solidity, but still exploring different areas to find my focus. Always open to collaborating on innovative projects and learning along the way.
 
 
 ## 📫 **Let's Connect!**
