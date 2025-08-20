@@ -4,6 +4,7 @@
 
 **Tech Stack**
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="49" height="49" /></div>
+<div style="display: flex; align-items: flex-start;"><img src=https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png width="49" height="49" /></div>
 
 
 ## 📫 **Let's Connect!**
