@@ -4,9 +4,9 @@
 
 
 <p align="center">
-<h5>Technologies that I've used</h5>
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,tailwind,solidity" />
   </a>
 </p>
 
