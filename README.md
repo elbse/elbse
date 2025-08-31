@@ -13,6 +13,6 @@ These are the tech stack that I've used:
 ## 📫 **Let's Connect!**
 - 📩 **Email:** [charissepriego0140@gmail.com](mailto:charissepriego0140@gmail.com)
 - 🐦 **Twitter:** [@PriegoChar63719](https://x.com/PriegoChar63719)
-- 🌐 **GitHub:** [@elbse](https://github.com/elbse)
+
 
 
