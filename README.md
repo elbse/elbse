@@ -11,7 +11,8 @@ These are the tech stack that I've used:
 </p>
 
 ## 📫 **Let's Connect!**
-- 📩 **Email:** [charissepriego0140@gmail.com](mailto:charissepriego0140@gmail.com)
+- **Email:** [charissepriego0140@gmail.com](mailto:charissepriego0140@gmail.com)
+- **Linkedln:** [https://www.linkedin.com/in/charisse-priego-22674034a/]
 
 
 
