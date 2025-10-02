@@ -6,7 +6,7 @@ These are the tech stack that I've used:
 <p align="left">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,tailwind,solidity,laravel" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,tailwind,solidity,laravel,google_colab" />
   </a>
 </p>
 
