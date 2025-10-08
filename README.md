@@ -2,7 +2,6 @@
 
 👩‍💻 I'm a Computer Science student exploring web development, blockchain, and emerging tech. Currently learning Laravel, React and Solidity, but still exploring different areas to find my focus. Always open to collaborating on innovative projects and learning along the way.
 
-**These are the tech stack that I've used:**
 <p align="left">
 
   <a href="https://skillicons.dev">
