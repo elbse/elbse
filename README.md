@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **@elbse**. 
 
-👩‍💻 I'm a Computer Science student exploring web development, blockchain, and emerging tech. Currently learning Laravel, TypeScript and Solidity, but still exploring different areas to find my focus. Always open to collaborating on innovative projects and learning along the way.
+👩‍💻 I'm a Computer Science student exploring web development, blockchain, and emerging tech. Currently learning Laravel, TypeScript and Solidity, but still exploring different areas to find my focus. Always open to collaborating on innovative projects and learning along the way. I also like ML (Machine Learning), btw.
 
 <p align="left">
 
