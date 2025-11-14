@@ -9,10 +9,7 @@
   </a>
 </p>
 
-## 📫 **Let's Connect!**
-- **Email:** [charissepriego0140@gmail.com](mailto:charissepriego0140@gmail.com)
-- **Linkedln:** https://www.linkedin.com/in/charisse-priego-22674034a/
-- **Portfolio:** coming soon....
+
 
 
 
