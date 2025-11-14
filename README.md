@@ -10,6 +10,8 @@
 </p>
 
 
+![snake gif](https://github.com/elbse/elbse/blob/output/github-snake-dark.svg)
+
 
 
 
