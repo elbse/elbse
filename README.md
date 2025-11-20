@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Elbse**
 
 I'm a Computer Science student passionate about building for the web and exploring emerging technologies.  
-Currently learning **Laravel**, **Python**, and strengthening my backend development skills — while also exploring blockchain and decentralized systems.
+Currently learning **Laravel**, **Python**, and learning backend development skills — while also exploring blockchain and decentralized systems.
 
 ---
 
@@ -10,7 +10,15 @@ Currently learning **Laravel**, **Python**, and strengthening my backend develop
 - 👩‍💻 Interested in full-stack web development  
 - 🔗 Learning the fundamentals of blockchain technology  
 - 🧪 Exploring new tools, frameworks, and modern workflows  
-- 🤝 Open to collaboration and learning opportunities  
+- 🤝 Open to collaboration and learning opportunities
+
+---
+
+## 📚 What I'm Working On
+- Small projects to improve Laravel & Python  
+- Strengthening backend development fundamentals  
+- Building a solid project portfolio  
+- Learning real-world blockchain concepts 
 
 <p align="left">
 
