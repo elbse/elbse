@@ -1,6 +1,20 @@
-# 👋 Hi, I'm **@elbse**. 
+**👋 Hi, I'm Elbse**
 
-👩‍💻 I'm a Computer Science student exploring web development, blockchain, and emerging tech. Currently learning Laravel and Python, but still exploring different areas to find my focus. Always open to collaborating on innovative projects and learning along the way.
+I'm a Computer Science student passionate about building for the web and exploring the future of technology. My interests span web development, blockchain, and emerging tech, and I'm actively learning Laravel, Python, and modern development workflows.
+
+I enjoy experimenting, learning new tools, and collaborating on innovative ideas.
+
+🚀 About Me
+
+🎓 Computer Science student
+
+👩‍💻 Exploring full-stack development
+
+🔗 Curious about blockchain and decentralized systems
+
+📘 Currently learning Laravel, Python, and improving my backend fundamentals
+
+🤝 Open to collaborations, contributions, and new learning opportunities
 
 <p align="left">
 
