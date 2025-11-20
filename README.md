@@ -18,7 +18,9 @@ Currently learning **Laravel**, **Python**, and learning backend development ski
 - Small projects to improve Laravel & Python  
 - Strengthening backend development fundamentals  
 - Building a solid project portfolio  
-- Learning real-world blockchain concepts 
+- Learning real-world blockchain concepts
+
+  ## 🛠️ Tech Stacks 
 
 <p align="left">
 
