@@ -15,10 +15,10 @@ Currently learning **Laravel**, **Python**, and learning backend development ski
 ---
 
 ## 📚 What I'm Working On
-- Small projects to improve Laravel & Python  
+- Small projects to improve Laravel  
 - Strengthening backend development fundamentals  
 - Building a solid project portfolio  
-- Learning real-world blockchain concepts
+
 
 ## 🛠️ Tech Stacks 
 
