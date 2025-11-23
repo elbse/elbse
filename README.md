@@ -12,12 +12,7 @@ Currently learning **Laravel**, **Python**, and learning backend development ski
 - 🧪 Exploring new tools, frameworks, and modern workflows  
 - 🤝 Open to collaboration and learning opportunities
 
----
 
-## 📚 What I'm Working On
-- Small projects to improve Laravel  
-- Strengthening backend development fundamentals  
-- Building a solid project portfolio  
 
 
 ## 🛠️ Tech Stacks 
