@@ -6,7 +6,7 @@ Currently learning **Laravel**, **Python**, and learning backend development ski
 ---
 
 ## 🚀 About Me
-- 🎓 CS Student  
+- 🎓 3rd Year CS Student  
 - 👩‍💻 Interested in full-stack web development  
 - 🔗 Learning the fundamentals of blockchain technology  
 - 🧪 Exploring new tools, frameworks, and modern workflows  
