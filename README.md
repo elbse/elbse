@@ -11,7 +11,7 @@ Currently learning **Laravel**, **Python**, and learning backend development ski
 - 🧪 Exploring new tools, frameworks, and modern workflows  
 - 🤝 Open to collaboration and learning opportunities
 
-
+---
 
 
 ## 🛠️ Tech Stacks 
