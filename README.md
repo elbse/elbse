@@ -5,15 +5,6 @@ Currently learning **Laravel**, **Python**, and learning backend development ski
 
 ---
 
-## 🚀 About Me 
-  
-- 🔗 Learning the fundamentals of blockchain technology  
-- 🧪 Exploring new tools, frameworks, and modern workflows  
-- 🤝 Open to collaboration and learning opportunities
-
----
-
-
 ## 🛠️ Tech Stacks 
 
 <p align="left">
