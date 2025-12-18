@@ -10,7 +10,7 @@ Currently learning **Laravel**,**Solidity** and learning backend development ski
 <p align="left">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,tailwind,java,solidity,eclipse,php,laravel,git,github,python,c#" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,tailwind,java,solidity,eclipse,php,laravel,git,github,python" />
   </a>
 </p>
 
