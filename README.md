@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Elbse**
 
 I'm a Computer Science student passionate about building for the web and exploring emerging technologies.  
-Currently learning **Laravel**,**Python**,**Solidity** and learning backend development skills — while also exploring blockchain and decentralized systems.
+Currently learning **Laravel**,**Python** and learning backend development skills — while also exploring blockchain and decentralized systems.
 
 ---
 
