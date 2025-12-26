@@ -5,6 +5,10 @@ Currently learning **Laravel**,**Python** and learning backend development skill
 
 ---
 
+Happy holidays!
+
+---
+
 ## 🛠️ Tech Stacks 
 
 <p align="left">
@@ -16,6 +20,8 @@ Currently learning **Laravel**,**Python** and learning backend development skill
 
 
 ![snake gif](https://github.com/elbse/elbse/blob/output/github-snake-dark.svg)
+
+
 
 
 
