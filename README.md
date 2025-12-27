@@ -5,9 +5,6 @@ Currently learning **Laravel**,**Python** and learning backend development skill
 
 ---
 
-Happy holidays!
-
----
 
 ## 🛠️ Tech Stacks 
 
