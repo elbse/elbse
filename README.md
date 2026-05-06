@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Elbse**
 
 I'm a Computer Science student passionate about building for the web and exploring emerging technologies.  
-Currently learning **Python** and exploring data science.
+Currently learning **Python** and exploring data science and AI.
 
 ---
 
