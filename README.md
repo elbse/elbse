@@ -4,6 +4,9 @@ I'm a Computer Science student passionate about building for the web and explori
 Currently learning **Python** and exploring data science and AI.
 
 ---
+🌐 **Portfolio** → [charisse-priego.vercel.app](https://charisse-priego.vercel.app)  
+📬 **Email** → [charissepriego0140@gmail.com](mailto:charissepriego0140@gmail.com)
+---
 
 
 ## 🛠️ Tech Stacks 
@@ -23,8 +26,5 @@ Currently learning **Python** and exploring data science and AI.
 
 
 
-
-🌐 **Portfolio** → [charisse-priego.vercel.app](https://charisse-priego.vercel.app)  
-📬 **Email** → [charissepriego0140@gmail.com](mailto:charissepriego0140@gmail.com)
 
 
