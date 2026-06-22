@@ -24,5 +24,7 @@ Currently learning **Python** and exploring data science and AI.
 
 
 
+🌐 **Portfolio** → [charisse-priego.vercel.app](https://charisse-priego.vercel.app)  
+📬 **Email** → [charissepriego0140@gmail.com](mailto:charissepriego0140@gmail.com)
 
 
