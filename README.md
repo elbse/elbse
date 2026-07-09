@@ -22,4 +22,6 @@ Currently learning **Python** and exploring data science and AI.
   </a>
 </p>
 
-[snake gif](https://github.com/elbse/elbse/blob/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elbse/elbse/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
